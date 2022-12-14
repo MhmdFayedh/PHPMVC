@@ -1,0 +1,19 @@
+{
+    "name": "mohammed/phpmvc-framework",
+    "description": "an app to understand mvc design pattern",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammed",
+            "email": "mohammed@mofayedh.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
